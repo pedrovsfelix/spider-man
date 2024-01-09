@@ -98,15 +98,7 @@ $gutter: 32px;
 .container {
   max-width: $container-l;
   margin: 0 auto;
-
   padding: 128px 24px;
-
-  /*display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;*/
-  //overflow: hidden;
-  //position: sticky;
 
   // clearfix
   &::after{
@@ -117,7 +109,6 @@ $gutter: 32px;
 
   @include responsive(s) {
     flex-direction: column;
-
     padding: 96px 16px;
   }
 }
@@ -619,8 +610,7 @@ $gutter: 32px;
 .space-point{
   padding: 12px;
   cursor: pointer;
-
-  margin: 24px 0;
+  margin: 12px 0;
 }
 
 .social {

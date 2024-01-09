@@ -300,10 +300,6 @@
   max-width: 1268px;
   margin: 0 auto;
   padding: 128px 24px;
-  /*display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;*/
 }
 .container::after {
   content: "";
@@ -764,7 +760,7 @@
 .space-point {
   padding: 12px;
   cursor: pointer;
-  margin: 24px 0;
+  margin: 12px 0;
 }
 
 .social {
