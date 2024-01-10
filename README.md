@@ -10,7 +10,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ]  Reponsividade para telas menores;
+- [ ]  Responsividade para telas menores;
 - [ ]  Espaçamentos entre elementos;
 - [ ]  SVG Icon do button play;
 
